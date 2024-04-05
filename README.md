@@ -1,3 +1,3 @@
 Script links user's home folder directories to home folder directories in WSL. 
-WARNING: This script assumes that your user name in Windows and WSL is the same. 
-Option to supply different user names may be added in future.
+--help                  displays help message
+--user <username>       your user name when it's different in Windows and WSL
